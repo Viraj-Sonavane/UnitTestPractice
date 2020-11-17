@@ -34,7 +34,6 @@ bool Practice::sortDescending(int & first, int & second, int & third)
   {
     return false;
   }
-
 }
 
 // Receive a string and return whether or not it is strictly a palindrome,
